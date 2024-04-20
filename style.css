@@ -1,0 +1,16 @@
+#box{
+    display: flex;
+    justify-content:flex-start;
+}
+#year{
+    margin: 20px;
+}
+#same-Calender{
+    margin-top: 100px;
+}
+button {
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: skyblue;
+  }
